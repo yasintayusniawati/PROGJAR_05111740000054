@@ -18,3 +18,11 @@
   * Jumlah request    : 1000
   * Konkurensi        : 1,2,3,4
 
+#### Load Balancer : PORT 44444
+![5](https://github.com/yasintayusniawati/PROGJAR_05111740000054/blob/master/Tugas%2010/Screenshot/Load_balancer/hasil_test.JPG)
+
+#### Server Async : PORT 45000
+![6](https://github.com/yasintayusniawati/PROGJAR_05111740000054/blob/master/Tugas%2010/Screenshot/hasil_test_async.JPG)
+
+#### Server Thread : PORT 46000
+![7](https://github.com/yasintayusniawati/PROGJAR_05111740000054/blob/master/Tugas%2010/Screenshot/hasil_test_thread.JPG)
