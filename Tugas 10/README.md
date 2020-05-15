@@ -13,3 +13,8 @@
 ![4](https://github.com/yasintayusniawati/PROGJAR_05111740000054/blob/master/Tugas%2010/Screenshot/log_lb.py.png)
 
 #### 5. Lakukan performance test seperti pada tugas 9, bandingkan penggunaan load balancer dengan async_server dengan server_thread_http pada folder progjar5
+
+#### Performance Test
+  * Jumlah request    : 1000
+  * Konkurensi        : 1,2,3,4
+
